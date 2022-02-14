@@ -171,10 +171,11 @@
     .content-product-card-item > .product-card-item img{
         height: 350px !important;
     }
+
     .form-login-body {
         margin: auto;
         line-height: 30px;
-        margin-left: 50px;
+        margin-left: 40px;
     }
     .form-login{
         font-size: 90%;
