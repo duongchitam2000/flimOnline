@@ -57,10 +57,10 @@ overLay.onclick = function(){
  contact.onclick = function(){
 	alert('Chức năng đang phát triển! ');
  }
- var btndownload = document.querySelector('.btn-download');
- btndownload.onclick = function(){
-	alert('Chức năng đang phát triển! ');
- }
+//  var btndownload = document.querySelector('.btn-download');
+//  btndownload.onclick = function(){
+// 	alert('Chức năng đang phát triển! ');
+//  }
 // tabs sidebar
 
 const tabsall = document.querySelectorAll('.tab-list-item')
